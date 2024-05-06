@@ -1,0 +1,36 @@
+commit 11aa8916adb4b772cce15be2b28f7ce96349a85b
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:59:27 2024 +0200
+
+    incluyendo capitulos
+
+commit d2dca9f2719d9e024aad3d87b41c7615a35f3783
+Merge: f52f526 ed722f5
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:58:05 2024 +0200
+
+    Merge branch 'pruebas'
+
+commit ed722f521a40ea7c8d42ac17d26dd8560d01d7f0
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:55:28 2024 +0200
+
+    Añadiendo la pagina 2
+
+commit f52f5266fb1a009b6a528d2b164a74a48be3d2aa
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:53:04 2024 +0200
+
+    Añadiendo pagina1.html
+
+commit db962c4e6875bbfa40af1dfa8f69f57ae0756176
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:32:02 2024 +0200
+
+    Incluyendo el index
+
+commit 4933efb6ebdb5ffb47ed707006e2bccbd902cefb
+Author: GabrielaGP2023 <cursos@gabrielagomezpuente.es>
+Date:   Mon May 6 09:29:02 2024 +0200
+
+    Primer commit
